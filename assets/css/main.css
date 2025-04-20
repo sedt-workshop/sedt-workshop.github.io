@@ -970,7 +970,7 @@ section,
 
 .speakers .member .member-info {
   position: absolute;
-  padding: 15px 0;
+  padding: 15px 10px;
   inset: auto 0 -44px 0;
   background: rgba(0, 0, 0, 0.6);
   transition: 0.4s;
