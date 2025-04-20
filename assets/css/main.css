@@ -236,7 +236,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 100px;
   margin-right: 8px;
 }
 
@@ -890,7 +890,7 @@ section,
 
 .hero h2 {
   margin: 0;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
 }
 
@@ -901,7 +901,7 @@ section,
 .hero p {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   margin: 10px 0 0 0;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 @media (max-width: 768px) {
